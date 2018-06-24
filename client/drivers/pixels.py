@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 # --*-- coding:utf8 --*--
 
+
 try:
     import RPi.GPIO as GPIO
 except:
